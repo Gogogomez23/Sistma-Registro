@@ -1,0 +1,35 @@
+{
+    "Musicos": {
+        "Alex": ["bajo", "guitarra", "guitarra electrica", "piano"],
+        "Andrea": ["guitarra", "voz"],
+        "Andrew": ["piano"],
+        "Cristian": ["guitarra", "bateria"],
+        "Danny": ["voz"],
+        "Enrique": ["bajo", "guitarra"],
+        "Gabriel": ["bajo", "bateria"],
+        "Henry": ["piano", "voz"], 
+        "Mario": ["bajo", "piano", "a/v"],  
+        "Rachel": ["piano"],  
+        "Sarai": ["piano"]
+    },
+    "Cantantes": {
+        "Shirley": ["voz"], 
+        "Stephanie": ["voz"],
+        "Roxana": ["voz"], 
+        "Ruth": ["voz"],
+        "Pablo": ["voz"],
+        "Hazel": ["voz"],
+        "Arlen": ["voz"]
+    },
+    "Lideres": {
+        "Wendy": ["voz"],
+        "Meghan": ["guitarra", "piano", "voz"],
+        "Oscar": ["guitarra", "voz"]
+    },
+    "A/V": {
+        "Miguel": ["a/v"],
+        "Javier": ["a/V"]
+    }
+
+}
+
