@@ -5,7 +5,7 @@ import json
 instrumentos_prioridad = ['guitarra', 'piano', 'bateria', 'bajo', 'guitarra electrica']
 musicos_disponibles = []
 instrumentos_asignados = []
-musicos_en_min = r'C:\Users\comgo\Desktop\church stuff\Sistema Registro\basededatos.json'
+musicos_en_min = r'C:\Users\comgo\Desktop\church stuff\Sistema Registro\sistema_registro\basededatos.json'
 #procedure that opens the json file and converts it into a new variable called data
 with open(musicos_en_min, 'r') as json_file:
     # Load the JSON data
